@@ -5,7 +5,7 @@
 # By *Rodney Maina*
 
 ## Description
-It's a webpage that shows 
+It's a program that shows how a net salary is calculated,how a speed detector awards demerits and a student grade system.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -15,7 +15,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone git@github.com:RodneyWarugongo/WK1-Code-Challenge.git
 
 ```
 
